@@ -41,8 +41,9 @@ Questions:
 
 1. Create a WAF policy on the BIG-IP in particion **/Common**.
 2. Use the existing pool in **/Common** as your pool members.
+3. Change the Virtual Server IP to something you can test like **10.1.10.125**.
 
-**Step 5:** Use the documentation to find the right argument to include and `existing` waf policy and pool.
+**Step 5:** Use the documentation to find the right argument to include an `existing` waf policy and pool.
 
 (Answer can be found in the **QandA** chapter)
 
