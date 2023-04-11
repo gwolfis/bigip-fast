@@ -5,17 +5,19 @@ This is exactly the reason why FAST comes with some examples to get you started,
 
 ## Task 1 - Install FAST tooling
 
+**Note** The FAST CLI tool is already installed at the **Ubuntu Jumphost**.
+
+In UDF you can skip steps 1 - 3 and go straight to step 4.
+
 FAST comes with some tooling and therefore we first need to install BIG-IP FAST CLI.
 
 **Step 1:** Start Visual Studio Code (VSC) from the desktop on the **Ubuntu Jumphost**.
 
 **Step 2:** Open a terminal in VSC.
 
-**Step 3:** (Optional) Install the FAST CLI tool by using the following command:
+**Step 3:** Install the FAST CLI tool by using the following command:
 
 **npm install @f5devcentral/f5-fast-core**
-
-**Note** The FAST CLI tool is already installed at the **Ubuntu Jumphost**.
 
 **Step 4:** Check if the tool has been installed by typing **fast --version** at the command line.
 
