@@ -1,4 +1,4 @@
-# variablestf
+# variables.tf
 
 variable "hostname" { default = "" }
 variable "user_name" { default = "" }

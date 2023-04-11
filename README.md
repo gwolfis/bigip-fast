@@ -1,13 +1,15 @@
 # Workshop - Automate FAST with BIG-IP
 
 ## Introduction
-Foundation to declarative automation is the use of an abstraction layer to hide away all complexity. F5 BIG-IP Application Services Templates (FAST) does exactly deliver the abstraction by providing templates to deploy application services. And on top, FAST allows one to create their own templateset and templates to deploy all F5 BIG-IP capability the way you want to.
+Fundamental to declarative automation is the use of an abstraction layer to hide away all complexity.
+
+F5 BIG-IP Application Services Templates (FAST) does exactly this, delivering the abstraction by providing templates to deploy application services. And on top, FAST allows one to create their own templateset and templates to deploy all F5 BIG-IP capability the way you want to.
 
 ## This Workshop
-This workshop will teach how FAST can get installed and deployed step by step. By following allong through the offered modules one will learn how to use FAST via the GUI, via API and via Terraform. One module will learn how custom FAST templates can be created and deployed.
+This workshop will teach how FAST can get installed and deployed step by step. By following allong through the offered modules one will learn how to use FAST via the GUI, via API and via Terraform. One module will teach how custom FAST templates can be created and deployed.
 
 # How to Consume
-This workshop is related to UDF lab **"?????"**. When you don't have access to a UDF lab environment, you will still be able to leverage this content. You need the following:
+This workshop is related to UDF lab **"BIG-IP FAST"**. When you don't have access to a UDF lab environment, you will still be able to leverage the provided content. You will need the following:
 - BIG-IP running TMOS v13.1 or later.
 - AS3 v3.16 or later must be installed on the BIG-IP.
 
