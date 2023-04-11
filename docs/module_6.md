@@ -47,7 +47,7 @@ Questions:
 
 (Answer can be found in the **QandA** chapter)
 
-**Step 6:** Once included, use **terraform plan** and **terraform apply -auto-approve** to include the WAF policy to the application and when deployed check the BIG-IP FAST GUI.
+**Step 6:** Once the Terraform script is completed, use **terraform plan** and **terraform apply -auto-approve** to include the WAF policy and pool to the application and when deployed check the BIG-IP FAST GUI.
 
 Questions:
 - In the BIG-IP provider resource F5 ATC, how differs resource **bigip_fast_application** from the resource we just used **bigip_fast_https_app**?
