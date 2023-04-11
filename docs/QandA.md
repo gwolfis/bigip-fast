@@ -1,7 +1,7 @@
 # Questions and Answers
 
 ### **module 1**
----
+
 Question: Would you use a FAST 'examples' template in production?
 
 Answer: The description says "no". The reason behind it is that these templates are defined in a way which does not provide a good working practise for production environments. It is highly encouraged to create your own custom FAST templates.
@@ -9,7 +9,7 @@ Answer: The description says "no". The reason behind it is that these templates 
 ---
 
 ### **module 2**
----
+
 Question: Which product module(s) is this template able to support?
 
 Answer: LTM Only. This is because only LTM has been provisioned. The HTTP-Application-Template will adjust template options accordingly to the product modules provisioned.
@@ -31,7 +31,7 @@ Answer: Because the ASM module has been provisioned, HTTP-Application-Template n
 
 ---
 ### **module 3**
----
+
 Question: What is the status of both the Blue and Green pool?
 
 Answer: Red.
@@ -71,7 +71,7 @@ Answer: Precentage = 0.5 this creates an equeal spread of the load among the poo
 No Questions
 
 ### **module 5**
----
+
 Question: What version of FAST is being used?
 
 Answer: v1.24
@@ -88,7 +88,7 @@ Answer: All available templates.
 
 ---
 ### **module 6**
----
+
 Question: What is the latest version of the BIG-IP provider?
 
 Answer: v17.1
