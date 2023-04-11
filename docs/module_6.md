@@ -53,6 +53,6 @@ Questions:
 - In the BIG-IP provider resource F5 ATC, how differs resource **bigip_fast_application** from the resource we just used **bigip_fast_https_app**?
 - What is the benefit of the new templates like bigip_fast_http_app, bigip_fast_https_app, bigip_fast_tcp_app and bigip_fast_udp_app opposed to the older bigip_fast_application?
 
-**Step 7:** Finally browse through this FAST Terraform [resource](https://github.com/f5devcentral/fast-terraform) to understand even more the potential of the renewed BIG-IP Resource Provider.
+**Step 7:** Finally browse through this BIG-IP FAST Terraform [resource](https://github.com/f5devcentral/fast-terraform) https://github.com/f5devcentral/fast-terraform to understand even more the potential of the renewed BIG-IP Resource Provider.
 
 [PREVIOUS](../docs/module_5.md)      [NEXT](../docs/QandA.md)
